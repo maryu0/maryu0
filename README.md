@@ -2,6 +2,7 @@
 I’m passionate about web development, Japanese language learning, and football. Currently, I’m focused on building my skills in MERN stack development and MongoDB.
 
 🔥 Interests: Full-stack (MERN) development, Japanese language learning, football
+
 🌱 Currently learning: MongoDB
 👯 Open to collaborate on: Web development projects and open-source contributions
 📬 How to reach me: maryu.3738@gmail.com
