@@ -1,5 +1,5 @@
 👋 Hi there, I’m Ayush (@maryu0)!
-I’m passionate about web development, Japanese language learning, and football. Currently, I’m focused on building my skills in MERN stack development and MongoDB.
+I’m passionate about web development, learning Japanese language, and football. Currently, I’m focused on building my skills in MERN stack development and MongoDB.
 
 🔥 Interests: Full-stack (MERN) development, Japanese language learning, football
 
