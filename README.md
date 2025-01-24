@@ -1,16 +1,30 @@
-👋 Hi there, I’m Ayush (@maryu0)!
-I’m passionate about web development, learning Japanese language, and football. Currently, I’m focused on building my skills in MERN stack development and MongoDB.
+# 👋 Hi, I'm Ayush (@maryu0)!
 
-🔥 Interests: Full-stack (MERN) development, Japanese language learning, football
+I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** and **MongoDB**, with a keen interest in learning the **Japanese language** and a love for **football**. I am currently focused on enhancing my skills in full-stack development and database management.
 
-🌱 Currently learning: MongoDB
+---
 
-👯 Open to collaborate on: Web development projects and open-source contributions
+### 🔹 **Skills & Interests:**
+- **Full-Stack (MERN) Development**
+- **MongoDB** & Database Management
+- **JavaScript, Node.js, Express, React, and more**
+- **Japanese Language Learning**
+- **Football**
 
-📬 How to reach me: maryu.3738@gmail.com
+### 🔹 **Current Focus:**
+- Strengthening my understanding of **MongoDB** and expanding my proficiency in **MERN stack** development.
 
-😄 Pronouns: He/Him
+### 🔹 **What I’m Open To:**
+- Collaborating on **web development projects**
+- Contributing to **open-source initiatives**
+- Networking with like-minded developers and tech enthusiasts
 
-⚡ Fun fact: I'm both a coder and a language learner—I'm taking on full-stack development and Japanese at the same time!
+### 📬 **How to Reach Me:**
+Feel free to connect with me via email at [maryu.3738@gmail.com](mailto:maryu.3738@gmail.com).
 
-Feel free to reach out if you're interested in collaborating on projects or just want to connect!
+### 🔹 **Fun Fact:**
+I’m juggling the worlds of **coding** and **language learning**, working on my **Full-Stack Development** projects while diving into **Japanese** simultaneously!
+
+---
+
+Let’s build something awesome together! 🚀
