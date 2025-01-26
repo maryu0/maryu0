@@ -20,7 +20,13 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** and
 - Networking with like-minded developers and tech enthusiasts
 
 ### 📬 **How to Reach Me:**
-Feel free to connect with me via email at [maryu.3738@gmail.com](mailto:maryu.3738@gmail.com).
+
+Feel free to connect with me through:
+
+- **Email**: [maryu.3738@gmail.com](mailto:maryu.3738@gmail.com)  
+- **LinkedIn**: [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-ab8a3a2ab/)  
+
+I’d love to hear from you! 🌟
 
 ### 🔹 **Fun Fact:**
 I’m juggling the worlds of **coding** and **language learning**, working on my **Full-Stack Development** projects while diving into **Japanese** simultaneously!
