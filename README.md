@@ -15,7 +15,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** and
 - Strengthening my understanding of **MongoDB** and expanding my proficiency in **MERN stack** development.
 
 ### 🔹 **What I’m Open To:**
-- Collaborating on **web development projects**
+- Collaborating on **web dev projects**
 - Contributing to **open-source initiatives**
 - Networking with like-minded developers and tech enthusiasts
 
