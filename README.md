@@ -29,8 +29,7 @@ Feel free to connect with me through:
 I’d love to hear from you! 🌟
 
 ### 🔹 **Fun Fact:**
-I’m juggling the worlds of **coding** and **language learning**, working on my **Full-Stack Development** projects while diving into **Japanese** simultaneously!
-
+I’m balancing two exciting worlds: coding and language learning! While building Full-Stack Development projects, I’m also mastering the art of speaking Japanese—a perfect blend of logic and creativity! 🎯✨
 ---
 
 Let’s build something awesome together! 🚀
