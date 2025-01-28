@@ -13,6 +13,8 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** and
 
 ### 🔹 **Current Focus:**
 - Strengthening my understanding of **MongoDB** and expanding my proficiency in **MERN stack** development.
+- **Currently learning React** to sharpen my front-end development skills and build interactive, dynamic user interfaces.
+
 
 ### 🔹 **What I’m Open To:**
 - Collaborating on **web dev projects**
