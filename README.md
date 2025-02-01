@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** and
 ### 🔹 **Skills & Interests:**
 - **Full-Stack (MERN) Development**
 - **MongoDB** & Database Management
-- **JavaScript, Node.js, Express, React, and more**
+- **HTML, CSS, JavaScript, Node.js, Express, React, and more**
 - **Japanese Language Learning**
 - **Football**
 
