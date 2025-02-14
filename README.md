@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush (@maryu0)!!
+# 👋 Hi, I'm Ayush (@maryu0)!!!
 
 I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** and **MongoDB**, with a keen interest in learning the **Japanese language** and a love for **football**. I am currently focused on enhancing my skills in full-stack development and database management.
 
